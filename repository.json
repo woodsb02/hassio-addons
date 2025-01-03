@@ -1,6 +1,6 @@
 {
-  "name": "HA Add-ons by woodsb02",
+  "name": "Home Assistant Add-ons by woodsb02",
   "udev": true,
   "url": "https://github.com/woodsb02/hassio-addons",
-  "maintainer": "woodsb02"
+  "maintainer": "woodsb02 <git@ben.woods.am>"
 }
